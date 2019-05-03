@@ -1,0 +1,37 @@
+.chartRow {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    height: 10%;
+    flex-direction: row;
+}
+.chartEntry {
+    width: 50%;
+    height: 100%;
+    border-color: #000000;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    font-size: 150%;
+    font-weight: bold;
+}
+.chartMenu {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.chartCheckButton {
+    width: 60%;
+    height: 100%;
+    transition-duration: 1s;
+    background-color: rgb(58, 202, 14);
+    color: rgb(196, 250, 196);
+    font-size: 200%;
+    font-weight: bold;
+}
+.chartCheckButton:hover {
+    background-color: rgb(0, 141, 0);
+    color: rgb(177, 214, 168);
+}

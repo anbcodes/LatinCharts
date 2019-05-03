@@ -1,0 +1,51 @@
+.ChallengePickerButton {
+    width: 33.3%;
+    height: 100%;
+    transition-duration: 1s;
+    background-color: rgb(14, 14, 202);
+    color: rgb(196, 244, 250);
+    font-size: 200%;
+    font-weight: bold;
+}
+.ChallengePickerButton:disabled {
+    width: 33.3%;
+    height: 100%;
+    transition-duration: 1s;
+    background-color: rgb(130, 130, 199);
+    color: rgb(196, 244, 250);
+    font-size: 200%;
+    font-weight: bold;
+}
+.ChallengePickerButton:hover:enabled {
+    background-color: rgb(0, 0, 141);
+    color: rgb(168, 209, 214);
+}
+.ChallengePickerButtonGreen {
+    width: 50%;
+    height: 100%;
+    transition-duration: 1s;
+    background-color: rgb(58, 202, 14);
+    color: rgb(196, 250, 196);
+    font-size: 200%;
+    font-weight: bold;
+}
+.ChallengePickerButtonGreen:hover {
+    background-color: rgb(0, 141, 0);
+    color: rgb(177, 214, 168);
+}
+.pickChallengeRow {
+    display: flex;
+    width: 70%;
+    height: 20%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.pickChallengeButtonsMenu {
+    display: flex;
+    width: 100%;
+    height: 70%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
