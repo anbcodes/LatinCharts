@@ -54,7 +54,45 @@ let DATA_charts = {
     },
     ["3rd Declension Nouns"]: {
         ["Challenge A"]: [
-            []
+            ["Caesar, Caesaris", "Caesar"],
+            ["centuriō, centuriōnis", "a centurion"],
+            ["clāmor, clāmōris", "shouting, shout"],
+            ["dux, ducis", "leader"],
+            ["eques, equitis", "horseman (pl cavalry)"],
+            ["frāter, frātris", "brother"],
+            ["homō, hominis", "man"],
+            ["imperātor, imperātōris", "commander in cheif, General, emperor"],
+            ["legiō, legiōnis", "legion"],
+            ["lēx, lēgis", "law"],
+            ["lūx, lūcis", "light"],
+            ["māter, mātris", "mother"],
+            ["mīles, mīlitis", "soldier"],
+            ["ōrātiō, ōrātiōnis", "speech, prayer"],
+            ["pater, patris", "father"],
+            ["pāx, pācis", "peace"],
+            ["prīnceps, prīncipis", "chief, leading man"],
+            ["rēx, rēgis", "king"],
+            ["salūs, salūtis", "safety, welfare, salvation"],
+            ["vēritās, vēritātis", "truth"],
+            ["virtūs, virtūtis", "courage, virtue"],
+            ["vōx, vōcis", "voice, cry"],
+            ["caedēs, caedis", "slaughter"],
+            ["collis, collis", "hill"],
+            ["fines, finium", "territoy"],
+            ["gēns, gentis", "tribe"],
+            ["hostis, hostis", "enemy"],
+            ["mōns, montis", "mountain"],
+            ["mors, mortis", "death"],
+            ["pars, partis", "part"],
+            ["pōns, pontis", "bridge"],
+            ["urbs, urbis", "city"],
+            ["agmen, agminis", "column (of soldiers), army (on the march)"],
+            ["corpus, corporis", "body"],
+            ["flūmen, flūminis", "river"],
+            ["iter, itineris", "journey, march, route"],
+            ["nōmen, nōminis", "name"],
+            ["vulnus, vulneris", "wound"],
+
         ]
     },
     ["4th Declension Nouns"]: {
@@ -92,21 +130,9 @@ let DATA_charts = {
             []
         ]
     },
+    ["Pronouns"]: {
+        ["Challenge A"]: [
+            []
+        ]
+    },
 }
-let DATA_3rdDeclensionNounsChartChA = [
-    ["Caesar, Caesaris", "Caesar"],
-    ["centuriō, centuriōnis", "a centurion"],
-    ["clāmor, clāmōris", "shouting, shout"],
-    ["dux, ducis", "leader"],
-    ["eques, equitis", "horseman (pl cavalry)"],
-    ["", ""],
-    ["", ""],
-    ["", ""],
-    ["", ""],
-    ["", ""],
-    ["", ""],
-    ["", ""],
-    ["", ""],
-    ["", ""],
-    ["", ""],  
-]
